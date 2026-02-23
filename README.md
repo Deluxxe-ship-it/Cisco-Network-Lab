@@ -6,7 +6,7 @@ This project demonstrates the configuration and connectivity of a small-scale ne
  Network Components
 
  Routers
-Router0 (1941)** – Serves as the gateway between the two LANs.
+Router0 (1941) – Serves as the gateway between the two LANs.
 
  Switches
 Switch0 (2960-24TT) – Connects the devices in the left LAN.
@@ -81,4 +81,5 @@ This network demonstrates proper VLAN management, IP addressing, and inter-LAN r
  Tools Used
 - Cisco Packet Tracer
 - Cisco 2960-24TT Switch
+
 - Cisco 1941 Router 
